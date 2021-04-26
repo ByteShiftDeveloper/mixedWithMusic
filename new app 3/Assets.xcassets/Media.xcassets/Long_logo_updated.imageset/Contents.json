@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Long_logo_updated.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
